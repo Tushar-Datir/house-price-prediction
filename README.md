@@ -109,12 +109,5 @@ MAE  : ~970,000
 RMSE : ~1,324,000
 R²   : ~0.65
 
-## Future Improvements
-
-* Feature importance visualization
-* Hyperparameter tuning
-* Model deployment (Streamlit Cloud / Render)
-* CI/CD integration
-
 ## Author
 -- Tushar Datir
