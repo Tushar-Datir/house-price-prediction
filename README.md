@@ -116,11 +116,5 @@ R²   : ~0.65
 * Model deployment (Streamlit Cloud / Render)
 * CI/CD integration
 
-## Output
-
-![Output](screenshots/ss1.png)
-![Output](screenshots/ss2.png)
-
 ## Author
-
 -- Tushar Datir
