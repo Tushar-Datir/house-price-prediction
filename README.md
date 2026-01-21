@@ -15,23 +15,6 @@ This project aims to build a regression model that accurately predicts house pri
 * Model & scaler persistence using Pickle
 * Interactive web interface using Streamlit
 
-
-## Project Structure
-
-house_price_prediction/
-│
-├── data/
-│   └── Housing.csv
-│
-├── model/
-│   ├── model.pkl
-│   └── scaler.pkl
-│
-├── train.py
-├── app.py
-├── requirements.txt
-└── README.md
-
 ---------------------------------------------------------------------------------------
 ## Technologies Used
 
